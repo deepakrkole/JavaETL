@@ -5,6 +5,7 @@ How to Run:
 1. Clone the repository
 
     git clone https://github.com/deepakrkole/JavaETL.git
+    cd JavaETL
 
 2. After cloning, change the file locations in src/main/resources/onfig.properties:
 
